@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: redesigned-waffle
+goal:
+  url: https://www.target.com/
+  path: s?
